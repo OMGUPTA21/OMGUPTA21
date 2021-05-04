@@ -1,5 +1,5 @@
-![imgonline-com-ua-CompressToSize-djY32bvWAt](https://user-images.githubusercontent.com/73100677/116982273-37968900-ace6-11eb-8887-6847095e9f9d.jpg)
-![174154302_964065337757756_883605471083290976_n](https://user-images.githubusercontent.com/73100677/116981923-cb1b8a00-ace5-11eb-9f4f-cef05fc35c4e.jpg)
+![imgonline-com-ua-CompressToSize-djY32bvWAt](https://user-images.githubusercontent.com/73100677/116982389-572db180-ace6-11eb-8257-9ce610c2663d.jpg)
+
 - 👋 Hi, I’m @OMGUPTA21
 - 👀 I’m interested in development and coding ...
 - 🌱 I’m currently learning BCA...
