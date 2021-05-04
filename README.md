@@ -10,7 +10,8 @@ A Pythoneer🐍 web design & Open Source Enthusiast. Love to learn and explore �
 - 💞️ I’m looking to collaborate on development community ...
 - 📫 How to reach me ...
 - 📧 guptaom782@gmail.com
-https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif
+
+![giphy](https://user-images.githubusercontent.com/73100677/116987625-eb027c00-acec-11eb-98c5-13f662fbb21d.gif)
 
 <!---
 OMGUPTA21/OMGUPTA21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
