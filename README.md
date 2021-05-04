@@ -1,4 +1,5 @@
-![imgonline-com-ua-CompressToSize-djY32bvWAt](https://user-images.githubusercontent.com/73100677/116982389-572db180-ace6-11eb-8257-9ce610c2663d.jpg)
+![imgonline-com-ua-resize-yY9aguOkSVvZRUJ](https://user-images.githubusercontent.com/73100677/116982569-922fe500-ace6-11eb-804b-4994f6bd368d.jpg)
+
 
 - 👋 Hi, I’m @OMGUPTA21
 - 👀 I’m interested in development and coding ...
