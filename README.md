@@ -1,4 +1,4 @@
-![Screenshot 2021-10-21 111240](https://user-images.githubusercontent.com/73100677/138218270-241ecc7b-1bd6-49ed-90ee-eed1fba7b1fb.png)
+
 Hi Geeks This is OM GUPTA
 A web design & Open Source Enthusiast. Love to learn and explore 🚀
 
