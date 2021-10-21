@@ -1,8 +1,5 @@
-![imgonline-com-ua-resize-yY9aguOkSVvZRUJ](https://user-images.githubusercontent.com/73100677/116982569-922fe500-ace6-11eb-804b-4994f6bd368d.jpg)
-
-
 Hi Geeks This is OM GUPTA
-A Pythoneer🐍 web design & Open Source Enthusiast. Love to learn and explore 🚀
+A web design & Open Source Enthusiast. Love to learn and explore 🚀
 
 - 👋 Hi, I’m @OMGUPTA21
 - 👀 I’m interested in development and coding ...
@@ -19,3 +16,10 @@ A Pythoneer🐍 web design & Open Source Enthusiast. Love to learn and explore �
 OMGUPTA21/OMGUPTA21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Find me on:
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:guptaom782@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/om-gupta-291111198/)
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/OmGupta79801963)
+[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/OMGUPTA21)
+[<img src="https://img.shields.io/badge/Youtube-%23000000.svg?&style=for-the-badge">](https://www.youtube.com/channel/UCBpgSleRY0JfzAyW59beChQ)
