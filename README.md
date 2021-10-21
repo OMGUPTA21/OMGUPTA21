@@ -22,4 +22,6 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/om-gupta-291111198/)
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/OmGupta79801963)
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/OMGUPTA21)
+[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/guptaom782)
 [<img src="https://img.shields.io/badge/Youtube-%23000000.svg?&style=for-the-badge">](https://www.youtube.com/channel/UCBpgSleRY0JfzAyW59beChQ)
+[<img src="https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge">](https://dev.to/omgupta21)
