@@ -25,3 +25,4 @@ You can click the Preview link to take a look at your changes.
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/guptaom782)
 [<img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=deepred">](https://www.youtube.com/channel/UCBpgSleRY0JfzAyW59beChQ)
 [<img src="https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge">](https://dev.to/omgupta21)
+[<img src="https://img.shields.io/badge/Stackoverflow-%23000000.svg?&style=for-the-badge&logo=stackoverflow&logoColor=yellow">](https://stackoverflow.com/users/15766758/om-gupta)
