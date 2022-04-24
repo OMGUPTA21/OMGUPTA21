@@ -2,7 +2,8 @@
 
 
 Hi Geeks This is OM GUPTA
-A web design & Open Source Enthusiast. Love to learn and explore 🚀
+A web dev & Open Source Enthusiast.
+Love to learn and explore 🚀
 
 - 👋 Hi, I’m @OMGUPTA21
 - 👀 I’m interested in development and coding ...
@@ -10,6 +11,7 @@ A web design & Open Source Enthusiast. Love to learn and explore 🚀
 - 💞️ I’m looking to collaborate on development community ...
 - 📫 How to reach me ...
 - 📧 guptaom782@gmail.com
+- 💞️ I am ready to work
 
 
 ![giphy (1)](https://user-images.githubusercontent.com/73100677/116987788-1edda180-aced-11eb-8760-60ecac06b59e.gif)
