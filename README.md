@@ -28,5 +28,6 @@
 
 
     ## 👨‍💻Hacktoberfest 2022
- [!@omgupta21's Holopin board]([(https://holopin.me/@omgupta21)](https://www.holopin.io/@omgupta21))
+  ![Capture](https://github.com/OMGUPTA21/OMGUPTA21/assets/73100677/2e689a55-cbd7-4f88-850b-5c31ee46c2cf)
+
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
