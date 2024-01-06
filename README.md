@@ -1,11 +1,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OMGUPTA21&label=Profile%20views&color=0e75b6&style=flat" alt="OMGUPTA21" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=500&pause=1000&color=45F70C&center=true&multiline=true&repeat=false&width=404&height=130&lines=Hey+there!+%F0%9F%91%8B;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
 # 🎖️ Learn Azure With Me:
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7149033145105887233" height="1180" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=500&pause=1000&color=45F70C&center=true&multiline=true&repeat=false&width=404&height=130&lines=Hey+there!+%F0%9F%91%8B;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+
 
 
 # 💫 About Me:
