@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🎓🎓 I' am a final MCA student currently study Maulana Abul Kalam Azad University of Technology, West Bengal 👨‍🎓 and I am passionate about web development ⚙️.<br>🎓 Ex-THIAN 👨‍🎓 At [TIH](https://www.technoindiahooghly.org/) .<br>💬 👨‍💻 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: omgupta564@gmail.com<br>😄 Pronouns: He/His<br>💻 Coder at GFG 👨‍💻 .<br>🎖️MLSA(α - Lead )at MAKAUT.
+🎓 I' am a final MCA student currently study Maulana Abul Kalam Azad University of Technology, West Bengal 👨‍🎓 and I am passionate about web development ⚙️.<br> 🎓 Ex-THIAN 👨‍🎓 At [TIH](https://www.technoindiahooghly.org/) .<br> 💬 Ask me about Good First Issues & Exciting projects to work on. <br> 📫 How to reach me: omgupta564@gmail.com<br> 😄 Pronouns: He/His<br> 💻 Coder at GFG  .<br> 🎖️MLSA(α - Lead )at MAKAUT.
 
 
               
