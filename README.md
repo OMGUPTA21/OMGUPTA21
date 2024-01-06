@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritam991&label=Profile%20views&color=0e75b6&style=flat" alt="Pritam991" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OMGUPTA21&label=Profile%20views&color=0e75b6&style=flat" alt="OMGUPTA21" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=500&pause=1000&color=45F70C&center=true&multiline=true&repeat=false&width=404&height=130&lines=Hey+there!+%F0%9F%91%8B;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
