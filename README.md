@@ -14,7 +14,7 @@
 
 
 # 🎖️ Learn Azure With Me:
-<a href="https://www.linkedin.com/embed/feed/update/urn:li:share:7149033145105887233](https://www.linkedin.com/posts/omgupta21_please-fill-out-this-form-activity-7149033146494124032-N8Qz?utm_source=share&utm_medium=member_desktop">Challege Start Soon</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7149033146494124032/">Challege Start Soon</a>
               
 
 
