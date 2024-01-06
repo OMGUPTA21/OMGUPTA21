@@ -28,5 +28,5 @@
 
 
     ## 👨‍💻Hacktoberfest 2022
- [![@prit76's Holopin board]([(https://holopin.me/@omgupta21)](https://www.holopin.io/@omgupta21))
+ [!@omgupta21's Holopin board]([(https://holopin.me/@omgupta21)](https://www.holopin.io/@omgupta21))
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
