@@ -1,9 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OMGUPTA21&label=Profile%20views&color=0e75b6&style=flat" alt="OMGUPTA21" /> </p>
 
-# 🎖️ Learn Azure With Me:
 
-<a href="https://www.linkedin.com/embed/feed/update/urn:li:share:7149033145105887233">Launch</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=500&pause=1000&color=45F70C&center=true&multiline=true&repeat=false&width=404&height=130&lines=Hey+there!+%F0%9F%91%8B;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
@@ -14,6 +12,9 @@
 🎓 I' am a final MCA student currently study Maulana Abul Kalam Azad University of Technology, West Bengal 👨‍🎓 and I am passionate about web development ⚙️.<br> 🎓 Ex-THIAN 👨‍🎓 At [TIH](https://www.technoindiahooghly.org/) .<br> 💬 Ask me about Good First Issues & Exciting projects to work on. <br> 📫 How to reach me: omgupta564@gmail.com<br> 😄 Pronouns: He/His<br> 💻 Coder at GFG  .<br> 🎖️MLSA(α - Lead )at MAKAUT.
 
 
+
+# 🎖️ Learn Azure With Me:
+<a href="https://www.linkedin.com/embed/feed/update/urn:li:share:7149033145105887233">Launch</a>
               
 
 
