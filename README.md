@@ -9,12 +9,7 @@
 
 
 # 💫 About Me:
-🎓 I' am a final MCA student currently study Maulana Abul Kalam Azad University of Technology, West Bengal 👨‍🎓 and I am passionate about Technology ⚙️.<br> 🎓 Ex-THIAN 👨‍🎓 At [TIH](https://www.technoindiahooghly.org/) .<br> 💬 Ask me about Good First Issues & Exciting projects to work on. <br> 📫 How to reach me: omgupta564@gmail.com<br> 😄 Pronouns: He/His<br> 💻 Coder at GFG  .<br> 🎖️MLSA(β-Lead )at MAKAUT.
-
-
-
-#🎖️MY MLSA PROFILE:
-<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/831afb6b-d8ae-4239-a96b-6d1afed5dea5">MLSA</a>
+🎓 I' am a final MCA student currently study Maulana Abul Kalam Azad University of Technology, West Bengal 👨‍🎓 and I am passionate about Technology ⚙️.<br> 🎓 Ex-THIAN 👨‍🎓 At [TIH](https://www.technoindiahooghly.org/) .<br> 💬 Ask me about Good First Issues & Exciting projects to work on. <br> 📫 How to reach me: omgupta564@gmail.com<br> 😄 Pronouns: He/His<br> 💻 Coder at GFG  .<br> 🎖️MLSA(β-Lead )at MAKAUT 🎖️MY MLSA PROFILE:<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/831afb6b-d8ae-4239-a96b-6d1afed5dea5">MLSA</a>.
               
 
 
