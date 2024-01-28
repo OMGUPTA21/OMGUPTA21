@@ -36,3 +36,14 @@
   ![Capture](https://github.com/OMGUPTA21/OMGUPTA21/assets/73100677/2e689a55-cbd7-4f88-850b-5c31ee46c2cf)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+  Github Stats
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OMGUPTA21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OMGUPTA21&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OMGUPTA21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=OMGUPTA21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
